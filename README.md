@@ -2,11 +2,11 @@
 [Azureの知識地図 〜 クラウドの基礎から実装・運用管理まで](https://gihyo.jp/book/2025/978-4-297-14903-1)（技術評論社）のサポートページです。
 
 ## 正誤表
-|該当箇所|誤|正|コメント|
-|---|---|---|---|
-|170ページ 図3.21 ドキュメントデータベース(NoSQL)|CustomerAddr|CustomerOrder|中カッコ区切りの上から３つ目が２つ目と同じ文言になっていますが、正しくは「CustomerOrder」です。|
-|252ページ Key Vault参照/App Configration参照|App Service と Key Vault の設定値を Appservice の|Key Vault と App Configuration で保持している値を Appservice の||
-|309ページ 図4.10|アラートを発砲|アラートを発報||
+|該当箇所|誤|正|コメント|備考|
+|---|---|---|---|---|
+|170ページ 図3.21 ドキュメントデータベース(NoSQL)|CustomerAddr|CustomerOrder|中カッコ区切りの上から３つ目が２つ目と同じ文言になっていますが、正しくは「CustomerOrder」です。|第2刷で修正済み|
+|252ページ Key Vault参照/App Configration参照|App Service と Key Vault の設定値を Appservice の|Key Vault と App Configuration で保持している値を Appservice の||第2刷で修正済み|
+|309ページ 図4.10|アラートを発砲|アラートを発報|||
 
 ## 追加情報
 ### 第4章
